@@ -16,10 +16,10 @@ public class main {
         Scanner sc = new Scanner(System.in);
         while(true) {
             System.out.println("====================================");
-            System.out.println("1. Cambiar hora.");
-            System.out.println("2. Escribir hora Formato AM/PM.");
-            System.out.println("3. Escribir hora Estandar.");
-            System.out.println("4. Salir.");
+            System.out.println("    1. Cambiar hora.");
+            System.out.println("    2. Escribir hora Formato AM/PM.");
+            System.out.println("    3. Escribir hora Estandar.");
+            System.out.println("    4. Salir.");
             System.out.println("====================================");
             System.out.print("Elige una opcion(1-4)");
             int opciones = sc.nextInt();
