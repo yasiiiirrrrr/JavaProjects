@@ -48,7 +48,7 @@ public class Fecha {
         if (hora>0 && hora<24){
             this.dia=h;
         }else{
-            throw new RuntimeException("Hora erronea. Introduce un dia valido(1-24)");
+            throw new RuntimeException ("Hora erronea. Introduce un dia valido(1-24)");
         }
     }
 

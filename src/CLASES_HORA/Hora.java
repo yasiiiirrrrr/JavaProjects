@@ -67,4 +67,13 @@ public class Hora {
     }
 
 
+    @Override
+    public String toString() {
+        return "Hora{" +
+                "h=" + h +
+                ", min=" + min +
+                ", seg=" + seg +
+                '}';
+    }
+
 }
