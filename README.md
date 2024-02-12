@@ -17,15 +17,12 @@ Este repositorio es una muestra de mi progreso y aprendizaje en programación Ja
 ## 📂 Estructura de Carpetas
 
 El repositorio está organizado en carpetas, cada una correspondiente a un ejercicio o proyecto específico. La estructura está diseñada para ser intuitiva y fácil de navegar:
+```cmd
 /RepositorioEjerciciosJava
-|-- Ejercicio1
-| |-- src
+|--src
+| |-- Ejercicio1
 | |-- README.md
-|-- Ejercicio2
-| |-- src
-| |-- README.md
-|-- ...
-
+```
 
 Cada carpeta de ejercicio normalmente incluye un directorio `src` que contiene el código fuente Java y, si es necesario, un archivo `README.md` que proporciona información adicional o instrucciones.
 

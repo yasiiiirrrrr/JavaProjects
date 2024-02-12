@@ -43,7 +43,7 @@ otraFecha.setHora(12);
 int diferenciaDias = miFecha.contarDias(otraFecha);
 System.out.println("Diferencia de días: " + diferenciaDias);
 ```
-### Contribución 🤗
+## Contribución 🤗
 ¡Contribuciones son bienvenidas! Si encuentras algún error o tienes sugerencias, no dudes en abrir un issue o enviar un pull request. ¡Gracias por ser parte de este proyecto! 👏
 
 Este README proporciona una descripción general del ejercicio, cómo usar la clase `Fecha` y cómo contribuir al proyecto. ¡Espero que te sea útil!
