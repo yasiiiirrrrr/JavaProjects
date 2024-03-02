@@ -15,7 +15,9 @@ public class Gestor {
         this.nombre = nombre;
         this.telefono = telefono;
         this.importeMaximoAutorizado = 10000;
+
     }
+
 
     // Getter para el teléfono
     public String getTelefono() {

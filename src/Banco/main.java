@@ -15,6 +15,7 @@ public class main {
         // Crear instancia de CuentaCorriente con los datos proporcionados
         CuentaCorriente persona = new CuentaCorriente(dni, nombre);
 
+
         // Mostrar el menú
         persona.mostrarMenu();
     }
