@@ -1,0 +1,23 @@
+ try {
+            short actividad_fisica;
+            actividad_fisica=entrada.nextShort();
+            switch (actividad_fisica) {
+                case 1:
+                    double uno=1.2;
+                    break;
+                case 2:
+                    double dos=;
+                    break;
+                case 3:
+                    double 3
+                    break;
+                case 4:
+                    System.out.println("4. Ejercicio intenso 6-7 veces por semana");
+                    break;
+                default:
+                    System.out.println("Elige una de las 4 opciones");
+            }
+        }catch(InputMismatchException e){
+            System.out.println("Debes de insertar un numero");
+            entrada.next();
+        }*\
